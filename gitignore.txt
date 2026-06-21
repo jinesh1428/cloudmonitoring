@@ -1,0 +1,3 @@
+cloud-monitor-key.json
+*.json.json
+__pycache__/
